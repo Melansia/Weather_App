@@ -1,5 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Weather App</string>
     <string name="enter_city_name_or_postal_code">Enter city name or postal code:</string>
-    <string name="get_weather">Get Weather</string>
 </resources>
