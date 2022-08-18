@@ -37,6 +37,7 @@
         android:backgroundTint="#2196F3"
         android:text="@string/get_weather"
         android:textSize="18sp"
+        android:onClick="onClickShowWeather"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/guideline2" />
