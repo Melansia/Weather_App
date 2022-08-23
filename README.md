@@ -17,9 +17,9 @@ The following **required** functionality is completed:
 
 Here's a walk-through of implemented features:
 
-| Start     | Finish      |
-|------------|-------------|
-| <img src=""> | <img src="" width=''> |
+| Demonstration  |
+|------------|
+| <img src="https://media.giphy.com/media/J5ZPfbdC8uMXEFDlhZ/giphy.gif"> |
 
 GIF created with [Giphy](https://giphy.com).
 
